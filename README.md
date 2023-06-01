@@ -5,12 +5,17 @@
 
 ## ⚡ Introduction
 Welcome to the repository of HuatuoGPT, a large language model (LLM) trained on a vast Chinese medical corpus. Our objective with HuatuoGPT is to construct a more professional ‘ChatGPT’ for medical consultation scenarios. 
+欢迎来到华托GPT的知识库，这是一个在庞大的中国医学语料库上训练的大型语言模型。我们与华托GPT的目标是为医疗咨询场景构建一个更专业的“ChatGPT”。
 
 Here is a list of what has been released:
+以下是已发布的内容列表：
 
 1. HuatuoGPT-SFT-data: A hybrid SFT data capitalizing on both strengths to endow the model with Doctor-like and Patient-friendly characteristics.
 2. HuatuoGPT model: HuatuoGPT model weights and the online demo.
 3. Medical evaluation benchmark: an evaluation method used to evaluate LLMs in medical scenarios.
+1.华托GPT SFT数据：一个混合的SFT数据，利用这两种优势，赋予该模型类似医生和患者友好的特征。
+2.华托GPT模型：华托GPt模型权重及在线演示。
+3.医疗评估基准：用于评估医疗场景中LLM的评估方法。
 
 <div align=center>
 <img src="assets/huatuo.png" width = "640" alt="HuatuoGPT" align=center/>
@@ -21,6 +26,9 @@ Here is a list of what has been released:
 - To address the growing demand for quick medical consultations both online and in hospitals that do not necessarily require deep medical knowledge. We believe that LLMs like HuatuoGPT can be effectively utilized to meet these demands, freeing up physicians’ time and energy for more complex cases.
 - To provide open data for training medical LLMs. Building high-quality instruction training data for LLMs is essential, but it can be also challenging. We have constructed medical instruction data using various methods and made it publicly available. This dataset can be combined with other datasets to train one's own medical 'ChatGPT'.
 - To emphasize the importance of carefully evaluating the ability of medical LLMs before using them to offer medical assistance to patients. We recognize the potential benefits of LLMs in the medical field, but also acknowledge the need for thorough evaluation and testing to ensure patient safety and accurate diagnoses.
+-为了满足日益增长的在线和医院快速医疗咨询需求，这些需求不一定需要深入的医学知识。我们相信，像华托GPT这样的LLM可以有效地满足这些需求，为更复杂的病例腾出医生的时间和精力。
+-为医学LLM培训提供开放数据。为LLM构建高质量的教学培训数据至关重要，但也可能具有挑战性。我们使用各种方法构建了医学指导数据，并将其公开。该数据集可以与其他数据集相结合，以训练自己的医学“ChatGPT”。
+-强调在使用医疗LLM为患者提供医疗援助之前，仔细评估其能力的重要性。我们认识到LLM在医疗领域的潜在好处，但也认识到需要进行彻底的评估和测试，以确保患者的安全和准确的诊断。
 
 ## 📚 Data
 
